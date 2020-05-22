@@ -1,2 +1,2 @@
 # contact-app
-A contact app manager developed using React
+A contact manager app developed using React
